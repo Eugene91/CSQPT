@@ -20,4 +20,4 @@ To see a demonstration, see
 
 - CSQPT-example.ipynb for quantum process tomography
 - QST-example.ipynb for quantum state tomography
-- Folders csqpt-data and qst-data contains quadrature structure and data that are used  in the examples.
+- Folders csqpt-data and qst-data contain quadrature data that is used in the examples.
